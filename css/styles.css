@@ -10,7 +10,7 @@ header {
   padding:32px;
 }
 
-header h1,
+/* header h1, */
 header p {
   margin: 0;
 }
@@ -31,7 +31,7 @@ header img {
   display: block;
   width: 95%;
   line-height: 44px;
-  margin: 40px auto 48px;
+  margin: 5px auto 8px;
   font-size: 16px;
   border-radius: 4px;
   text-align: center;
@@ -81,3 +81,4 @@ footer {
 /* @media (min-width: 900px) {
 
 } */
+
